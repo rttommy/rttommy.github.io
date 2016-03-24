@@ -23,10 +23,12 @@
     background-color: #2196F3;
 }
 
-#nav_f{
+#nav_f {
     box-shadow: none !important; 
     -webkit-box-shadow:none !important;
 }
+
+
 
 .text_h {
     font-size: 6.0em;
@@ -38,7 +40,7 @@
     position: absolute;
     color: #fff;
     display: inline-block;
-    font-size: 2.1rem;
+    font-size: 21rem;
     font-style: normal;
     font-weight: 100;
     padding: 0;
@@ -261,4 +263,10 @@ nav a.button-collapse {
 
 footer.page-footer {
     margin-top: 0px !important;
+}
+
+#pitch {
+	font-size: 16.0em;
+	background-color: #2196F3;
+
 }
